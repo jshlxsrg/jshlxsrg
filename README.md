@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jshlxsrg
 - 👀 I’m interested in ... Games, Movies, Programming and Networking
-- 🌱 I’m currently learning ... Packet Tracer
+- 🌱 I’m currently learning ... Packet Tracer and Unity
 - 📫 How to reach me ... email me: joshuaurag13@gmail.com
                           contact me: 09957425276
 
